@@ -1,13 +1,13 @@
-Document - Install Nginx
-Approach 1:
+### Document - Install Nginx
+### Approach 1:
 
 yum install nginx
 systemctl start nginx
 systemctl enable nginx
 nginx -V
-Approach 2 (Recommended):
+### Approach 2 (Recommended):
 
-Documentation Referred:
+### Documentation Referred:
 
 https://www.nginx.com/resources/wiki/start/topics/tutorials/install/
 
